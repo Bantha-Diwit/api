@@ -1,0 +1,23 @@
+{
+	"compilerOptions": {
+		"allowJs": false,
+		"allowUnreachableCode": false,
+		"allowUnusedLabels": false,
+		"checkJs": false,
+		"experimentalDecorators": true,
+		"lib": ["ESNext", "DOM", "deno.window"],
+		"noFallthroughCasesInSwitch": false,
+		"noImplicitAny": false,
+		"noImplicitReturns": true,
+		"noImplicitThis": true,
+		"noStrictGenericChecks": false,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"strictBindApply": true,
+		"strictFunctionTypes": true,
+		"strictPropertyInitialization": true,
+		"strictNullChecks": true,
+		"suppressExcessPropertyErrors": false,
+		"suppressImplicitAnyIndexErrors": false
+	}
+}
